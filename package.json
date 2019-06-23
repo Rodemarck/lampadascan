@@ -1,0 +1,20 @@
+{
+    "name": "lampadascan",
+    "version": "1.0.0",
+    "description": "o minimo para fazer o site da lampadascan",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "lampadascan",
+        "teste"
+    ],
+    "author": "rodemarck",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.0.0-beta.2",
+        "jquery": "^3.4.1",
+        "popper.js": "^1.15.0"
+    }
+}
